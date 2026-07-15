@@ -1,6 +1,5 @@
 # CPU-Scheduling-Simulation-Synchronization-Deadlock-Analysis
 
-# CampusConnect CPU Scheduling Simulation, Synchronization & Deadlock Analysis
 
 This repository contains:
 
